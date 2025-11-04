@@ -5,6 +5,12 @@ See [docs](https://docs.hud.so/build-environments) for the complete environment 
 
 ## Architecture
 
+
+
+
+
+
+
 **`environment/`** - Produces structured data
 
 - Owns all state (game logic, browser sessions, databases, etc.)
